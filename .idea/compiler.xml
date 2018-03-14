@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="eduspring-api" />
+        <module name="eduspring-common" />
+        <module name="eduspring-web" />
         <module name="modulApi" />
         <module name="modulCommon" />
         <module name="modulWebb" />
